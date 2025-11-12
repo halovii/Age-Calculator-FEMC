@@ -36,10 +36,8 @@ Users should be able to:
 
 ### Screenshot
 
-![desktopver](<img width="561" height="514" alt="desktopver" src="https://github.com/user-attachments/assets/efca3c2a-4be6-4b47-b9bb-92bae0f3c419" />
-)
-![mobilever](<img width="377" height="511" alt="mobilever" src="https://github.com/user-attachments/assets/d5b4c990-14b9-4763-917d-1bcbf1dee09d" />
-)
+![desktopver]("https://github.com/user-attachments/assets/efca3c2a-4be6-4b47-b9bb-92bae0f3c419")
+![mobilever]("https://github.com/user-attachments/assets/d5b4c990-14b9-4763-917d-1bcbf1dee09d")
 
 
 ### Links
