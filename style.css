@@ -1,10 +1,10 @@
 @font-face {
     font-family: Poppins;
-    src: url(/assets/fonts/Poppins-Regular.ttf);
+    src: url(./assets/fonts/Poppins-Regular.ttf);
 }
 @font-face {
     font-family: Poppins-bold;
-    src: url(/assets/fonts/Poppins-Bold.ttf);
+    src: url(./assets/fonts/Poppins-Bold.ttf);
 }
 @font-face {
     font-family: Poppins-bolditalic;
@@ -150,5 +150,6 @@ input:hover {
     h1 {
         font-size: 2.5rem;
     }
+
 
 }
